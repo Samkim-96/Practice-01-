@@ -1,0 +1,47 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin: 15px;
+}
+
+form{
+    max-width: 380px;
+    margin: auto;
+}
+
+label{
+    display: block;
+    margin-bottom: 6px;
+}
+
+input,
+select,
+textarea{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+header, main, aside, footer{
+    padding: 20px;
+    text-align: centre;
+    background-color: grey;
+    color: white;
+
+}
+
+.container {
+    display: flex;
+
+}
+
+main {
+    flex: 2;
+
+}
+
+aside {
+    flex: 1;
+    border-left: 1px solid bisque;
+    background-color: brown;
+}
+                                       
