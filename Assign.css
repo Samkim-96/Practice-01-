@@ -20,11 +20,3 @@ h1 {
 
  }
 
-.p {
- padding:20px
- background-color:  #44336;
- color: white
- transition: opacity 0.65;
- margin-bottom; 15px;
- backbground-color: #2196f3;
-}
