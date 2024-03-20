@@ -5,13 +5,21 @@
     text-align: center;
 }
     
- div {
-    width: 300px;
-    margin: auto;
- }
+.mycontainer {
+    width:100%;
+    overflow:auto;
+  }
+  .mycontainer div {
+    width:33%;
+    float:left;
+  }
+ 
 h1 {
   text-align: center;
+  color: aqua;
+
  }
+
 .p {
  padding:20px
  background-color:  #44336;
